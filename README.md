@@ -13,7 +13,7 @@
 <br><br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/shahobiddin-web)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/)
+[![Instagram](https://www.instagram.com/w_uzzz/)
 
 </div>
 
