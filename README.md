@@ -1,76 +1,32 @@
-# 👋 Hi, I'm Shahobiddin Gaybiddinov
+<div align="center">
 
-### 💻 Frontend Developer | IT Student | Future Software Engineer 🚀
+# 👋 Hi, I'm **Shahobiddin Gaybiddinov**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Enthusiast;React+Developer;Future+Software+Engineer;Code+%7C+Learn+%7C+Build" />
-</p>
+### 💻 Frontend Developer • IT Student • Future Software Engineer 🚀
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%92%BB;JavaScript+Developer+%E2%9A%A1;React+Developer+%E2%9A%9B%EF%B8%8F;Building+Modern+Websites+%F0%9F%8C%90;Future+Software+Engineer+%F0%9F%9A%80" />
 
-## 👨‍💻 About Me
+<br>
 
-- 🎓 IT Student at **Algoritm Edu**
-- 💻 Frontend Developer
-- ⚛️ React Developer
-- 🚀 Learning and building real-world projects
-- 📚 Always improving my programming skills
-- 🎯 My goal — become a professional Software Engineer
-- ⚡ Code • Learn • Build
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,git,github,vscode" />
 
----
+<br><br>
 
-## 🛠️ My Skills
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/shahobiddin-web)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/)
 
-### 🌐 Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Redux Toolkit
-- React Router
-- Vite
-
-### ⚙️ Backend & Tools
-- Node.js
-- Express.js
-- MongoDB
-- Git
-- GitHub
-- Postman
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahobiddin-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahobiddin-dev&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 My Projects
-
-| Project | Description |
-|--------|-------------|
-| 🌐 Web Projects | Modern responsive websites |
-| ⚛️ React Projects | React-based applications |
-| 🛒 E-Commerce | Online shopping interfaces |
-| 🤖 Telegram Bots | Useful Telegram bot projects |
-
----
-
-## 🎯 2026 Goals
-
-```text
-✅ Improve JavaScript
-✅ Master React
-✅ Learn advanced Redux
-🔄 Build bigger projects
-🔄 Improve Backend skills
-🎯 Become a professional Full-Stack Developer
-🚀 Become a Software Engineer
+```js
+const shahobiddin = {
+    name: "Shahobiddin Gaybiddinov",
+    role: "Frontend Developer",
+    education: "IT Student",
+    learning: ["JavaScript", "React", "Redux Toolkit", "Node.js"],
+    goal: "Future Software Engineer 🚀",
+    mindset: "Code • Learn • Build"
+};
