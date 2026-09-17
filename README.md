@@ -1,32 +1,42 @@
-<div align="center">
+# 👨‍💻 Gaybiddinov Shahobiddin
 
-# 👋 Hi, I'm **Shahobiddin Gaybiddinov**
+### 🚀 IT Student | Frontend Developer
 
-### 💻 Frontend Developer • IT Student • Future Software Engineer 🚀
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%92%BB;JavaScript+Developer+%E2%9A%A1;React+Developer+%E2%9A%9B%EF%B8%8F;Building+Modern+Websites+%F0%9F%8C%90;Future+Software+Engineer+%F0%9F%9A%80" />
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,git,github,vscode" />
-
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/shahobiddin-web)
-[![Instagram](https://www.instagram.com/shahobiddin.web?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==)
-
-</div>
+Men dasturlashni o‘rganayotgan va yangi loyihalar yaratishga qiziqadigan dasturchiman.  
+Har kuni yangi bilimlarni o‘rganib, tajribamni oshirib boryapman. ⚡
 
 ---
 
-## 🧑‍💻 About Me
+## 🛠️ Men o‘rgangan texnologiyalar
 
-```js
-const shahobiddin = {
-    name: "Shahobiddin Gaybiddinov",
-    role: "Frontend Developer",
-    education: "IT Student",
-    learning: ["JavaScript", "React", "Redux Toolkit", "Node.js"],
-    goal: "Future Software Engineer 🚀",
-    mindset: "Code • Learn • Build"
-};
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=scratch,python,html,css,js,react" />
+</p>
+
+### 📚 Skills
+
+- 🌐 **HTML**
+- 🎨 **CSS**
+- ⚡ **JavaScript**
+- ⚛️ **React**
+
+---
+
+## 🎯 Hozirgi maqsadim
+
+> 🚀 Kuchli **Frontend Developer** bo‘lish  
+> 💻 Real loyihalar yaratish  
+> 📚 Dasturlashni yanada chuqur o‘rganish  
+> 🔥 Kelajakda **Software Engineer** bo‘lish
+
+---
+
+## ⚡ My Motto
+
+**Code • Learn • Build • Repeat 🔥**
+
+---
+
+<p align="center">
+  <b>💻 Keep Learning • Keep Coding • Keep Building 🚀</b>
+</p>
